@@ -4,6 +4,8 @@
 
 Orcifier blends advanced computer vision with high-fidelity 3D rendering to seamlessly overlay fantasy masks onto the user's face. Utilizing GPU-accelerated tracking, it anchors digital prosthetics to facial expressions with zero perceived latency.
 
+![Orcifier Preview](output.gif)
+
 ---
 
 ## Capabilities
